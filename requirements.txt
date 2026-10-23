@@ -1,0 +1,7 @@
+streamlit>=1.50
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+openpyxl
